@@ -9,10 +9,9 @@ class MainWindow21Ext(Ui_NguyenNhuQuynh_798_TohopChinhhop):
         
     def tinhtoan(self):
         def giaithua(n):
-            gt = 1
-            for i in range (1,n+1):
-                gt=gt*i
-            return gt
+            if n==0: return 1
+            else:
+                return n*giaithua(n-1)
         def P(n,k):
             return giaithua(n)//giaithua(n-k)
         def C(n,k):
