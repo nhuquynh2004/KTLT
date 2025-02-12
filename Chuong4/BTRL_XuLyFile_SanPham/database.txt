@@ -1,0 +1,5 @@
+1;calculator;20.0
+2;notebook;2.0
+3;gift;30.0
+4;computer;1000.0
+5;card;40.0
