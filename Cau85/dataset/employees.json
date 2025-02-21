@@ -1,0 +1,32 @@
+[
+    {
+        "EmployeeID": "E1",
+        "EmployeeName": "Tèo",
+        "Username": "teo",
+        "Password": "123"
+    },
+    {
+        "EmployeeID": "E2",
+        "EmployeeName": "Tí",
+        "Username": "ti",
+        "Password": "456"
+    },
+    {
+        "EmployeeID": "E3",
+        "EmployeeName": "Bin",
+        "Username": "bin",
+        "Password": "789"
+    },
+    {
+        "EmployeeID": "E4",
+        "EmployeeName": "Bo",
+        "Username": "bo",
+        "Password": "JQK"
+    },
+    {
+        "EmployeeID": "E5",
+        "EmployeeName": "Bi",
+        "Username": "bi",
+        "Password": "ABC"
+    }
+]

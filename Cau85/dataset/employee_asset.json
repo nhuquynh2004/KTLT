@@ -1,0 +1,37 @@
+[
+    {
+        "EmployeeID": "E1",
+        "AssetID": "TS1",
+        "Role": "MAIN"
+    },
+    {
+        "EmployeeID": "E2",
+        "AssetID": "TS3",
+        "Role": "MAIN"
+    },
+    {
+        "EmployeeID": "E5",
+        "AssetID": "TS5",
+        "Role": "MAIN"
+    },
+    {
+        "EmployeeID": "E4",
+        "AssetID": "TS4",
+        "Role": "MAIN"
+    },
+    {
+        "EmployeeID": "E5",
+        "AssetID": "TS4",
+        "Role": "MAIN"
+    },
+    {
+        "EmployeeID": "E1",
+        "AssetID": "TS6",
+        "Role": "MAIN"
+    },
+    {
+        "EmployeeID": "E4",
+        "AssetID": "TS7",
+        "Role": "MAIN"
+    }
+]

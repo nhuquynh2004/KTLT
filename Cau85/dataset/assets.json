@@ -1,0 +1,38 @@
+[
+    {
+        "AssetID": "TS1",
+        "AssetName": "Máy chiếu 1",
+        "ImportYear": 2017,
+        "Value": 10
+    },
+    {
+        "AssetID": "TS2",
+        "AssetName": "Máy chiếu 2",
+        "ImportYear": 2018,
+        "Value": 10
+    },
+    {
+        "AssetID": "TS3",
+        "AssetName": "Máy tính A",
+        "ImportYear": 2016,
+        "Value": 10
+    },
+    {
+        "AssetID": "TS4",
+        "AssetName": "Máy tính B",
+        "ImportYear": 2020,
+        "Value": 10
+    },
+    {
+        "AssetID": "TS5",
+        "AssetName": "Máy lọc nước",
+        "ImportYear": 2018,
+        "Value": 10
+    },
+    {
+        "AssetID": "TS6",
+        "AssetName": "Máy ảnh",
+        "ImportYear": 2017,
+        "Value": 10
+    }
+]
