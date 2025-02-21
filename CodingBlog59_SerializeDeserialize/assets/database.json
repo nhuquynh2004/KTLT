@@ -1,0 +1,67 @@
+{
+    "categories": [
+        {
+            "cate_id": "C1",
+            "cate_name": "Phone",
+            "products": [
+                {
+                    "product_id": "P1",
+                    "product_name": "Samsung",
+                    "unit_price": 500
+                },
+                {
+                    "product_id": "P2",
+                    "product_name": "Iphone",
+                    "unit_price": 1000
+                },
+                {
+                    "product_id": "P3",
+                    "product_name": "Xiaomi",
+                    "unit_price": 300
+                }
+            ]
+        },
+        {
+            "cate_id": "C2",
+            "cate_name": "Laptop",
+            "products": [
+                {
+                    "product_id": "P4",
+                    "product_name": "HP",
+                    "unit_price": 1200
+                },
+                {
+                    "product_id": "P5",
+                    "product_name": "DELL",
+                    "unit_price": 900
+                },
+                {
+                    "product_id": "P6",
+                    "product_name": "MacBook",
+                    "unit_price": 2000
+                }
+            ]
+        },
+        {
+            "cate_id": "C1",
+            "cate_name": "TV",
+            "products": [
+                {
+                    "product_id": "P7",
+                    "product_name": "Sony",
+                    "unit_price": 2000
+                },
+                {
+                    "product_id": "P8",
+                    "product_name": "Panasonic",
+                    "unit_price": 1000
+                },
+                {
+                    "product_id": "P9",
+                    "product_name": "TVC",
+                    "unit_price": 500
+                }
+            ]
+        }
+    ]
+}
