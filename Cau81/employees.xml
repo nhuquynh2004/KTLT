@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<employees>
+    <employee>
+        <id>1</ id>
+        <name>Trần Thanh Thản</ name>
+    </ employee>
+    <employee>
+        <id>2</ id>
+        <name>Trương Hoài Phan</ name>
+    </ employee>
+    <employee>
+        <id>3</ id>
+        <name>Nguyễn Quang Phúc</ name>
+    </ employee>
+    <employee>
+        <id>4</ id>
+        <name>Phạm Thị Xuân Diệu</ name>
+    </ employee>
+    <employee>
+        <id>5</ id>
+        <name>Hồ Trung Thành</ name>
+    </ employee>
+</ employees>

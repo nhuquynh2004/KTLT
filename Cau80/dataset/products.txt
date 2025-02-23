@@ -1,0 +1,4 @@
+P2;Bánh Chocopie;30000.0
+P3;Pepsi;10000.0
+P4;Trà xanh không độ;12000.0
+P5;Bánh tráng trộn;20000.0
